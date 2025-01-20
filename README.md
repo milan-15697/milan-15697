@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Milan Bhardwaj
-- 🌱 I’m a Software Development Engineer having expertise in Python, Data Structures, Big Data & Analytics, Real-Time ETL systems, smart ML workflows and associated frameworks!
+- 🌱 I’m a Software Development Engineer having expertise in Python, Java, Cloud, Big Data & Analytics, Real-Time ETL systems, smart ML workflows and associated frameworks!
 - 💞️ I’m looking to collaborate with like-minded enthusiasts
 - 📫 Write to me at milan15697@outlook.com or https://www.linkedin.com/in/milan-bhardwaj/
 
