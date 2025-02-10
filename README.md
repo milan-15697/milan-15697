@@ -3,7 +3,9 @@
 - 💞️ I’m looking to collaborate with like-minded enthusiasts
 - 📫 Write to me at milan15697@outlook.com or https://www.linkedin.com/in/milan-bhardwaj/
 
-Tech Stack: Python, PySpark, SQL, NumPy, Pandas, Kafka, PyTorch, Data Visualization (Grafana, D3, Plotly, MatPlotLib), Docker and more. Let's connect to create highly available and scalable products!
+Tech Stack: Python, Java, Linux, SQL/NoSQL, PySpark, NumPy, Pandas, Kafka, PyTorch, Data Visualization, Docker, Kubernetes and more. 
+
+Let's connect to create highly available and scalable products!
 
 <!---
 milan-15697/milan-15697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
